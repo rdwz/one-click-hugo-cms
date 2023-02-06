@@ -4679,10 +4679,10 @@ http-proxy@^1.18.1:
     follow-redirects "^1.0.0"
     requires-port "^1.0.0"
 
-hugo-bin@^0.95.0:
-  version "0.95.0"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.95.0.tgz#50d5835eb39c897cd8f1743b1e3fbb9347804255"
-  integrity sha512-0hE/PMGpb5ACqDgkJ2zLtl0rFoLDfmRZbC9wkLnMEnjF4Mrz/dCFJIZb66HgxrdK4SfrZfmNLL5usuOi0bjhag==
+hugo-bin@^0.98.0:
+  version "0.98.0"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.98.0.tgz#8ed1f533fbe5ee1d5edb4ec91531ad6cdcf09a9c"
+  integrity sha512-njaLdSl4DorvQ9uf9SL0Np8s4dn0Sbtrl1+xiBlQCDegtPLgCU4kOgJNl6rhzevxXAl7oMXRrNJROhOVDmNqvA==
   dependencies:
     bin-wrapper "^4.1.0"
     picocolors "^1.0.0"
